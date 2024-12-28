@@ -9,15 +9,25 @@ AutoML Pipeline Builder is a Streamlit-based web application that allows users t
 ├── modules/
 
 │   ├── dataset.py
+
 │   ├── eda.py
+
 │   ├── preprocessing.py
+
 │   ├── training.py
+
 ├── requirements.txt
+
 ├── README.md
+
 ├── data/
+
 ├── automl_env/
+
 ├── results/
+
 ├── tests/
+
 ├── models/
 
 ## Features
