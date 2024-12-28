@@ -73,7 +73,7 @@ AutoML Pipeline Builder is a Streamlit-based web application that allows users t
 - Streamlit
 - Required Python packages (listed in `requirements.txt`)
 
-### Steps to Set Up
+## Steps to Set Up
 1. Clone the Project:
 - git clone https://github.com/attaquarks/AutoML.git
 - cd AutoML
