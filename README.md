@@ -75,9 +75,8 @@ AutoML Pipeline Builder is a Streamlit-based web application that allows users t
 
 ### Steps to Set Up
 1. Clone the Project:
-- git clone <repository_url>
+- git clone https://github.com/attaquarks/AutoML.git
 - cd AutoML
-- Set Up a Virtual Environment: Create and activate a virtual environment to isolate dependencies.
 
 2. Set Up a Virtual Environment:
 - python -m venv automl_env
