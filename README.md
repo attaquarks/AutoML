@@ -5,7 +5,9 @@ AutoML Pipeline Builder is a Streamlit-based web application that allows users t
 ---
 ## Structure
 ├── app.py
+
 ├── modules/
+
 │   ├── dataset.py
 │   ├── eda.py
 │   ├── preprocessing.py
@@ -64,7 +66,5 @@ AutoML Pipeline Builder is a Streamlit-based web application that allows users t
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/attaquarks/automl-pipeline-builder.git
-   cd automl-pipeline-builder
-
-"# AutoML" 
+   git clone https://github.com/attaquarks/AutoML.git
+   cd AutoML 
